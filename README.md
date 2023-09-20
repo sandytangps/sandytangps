@@ -7,8 +7,18 @@
 - 🗒 “There is no such thing as a self-made man. You will reach your goals only with the help of others.” – George Shinn
 - 📫 Reach me through here? :)
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <strong>Language attempted</strong><br>
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<i class="devicon-python-plain"></i>
+<i class="devicon-selenium-original"></i>
+<i class="devicon-slack-plain"></i>
+<i class="devicon-sqlite-plain"></i>
+<i class="devicon-vscode-plain colored"></i>
+<i class="devicon-pytest-plain"></i>
+<i class="devicon-jira-plain"></i>
+<i class="devicon-javascript-plain colored"></i>
+<i class="devicon-android-plain colored"></i>
+            
           
 <!---
 sandytangps/sandytangps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
