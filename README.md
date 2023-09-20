@@ -9,15 +9,17 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <strong>Language attempted</strong><br>
-<i class="devicon-python-plain"></i>
-<i class="devicon-selenium-original"></i>
-<i class="devicon-slack-plain"></i>
-<i class="devicon-sqlite-plain"></i>
-<i class="devicon-vscode-plain colored"></i>
-<i class="devicon-pytest-plain"></i>
-<i class="devicon-jira-plain"></i>
-<i class="devicon-javascript-plain colored"></i>
-<i class="devicon-android-plain colored"></i>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+          
             
           
 <!---
