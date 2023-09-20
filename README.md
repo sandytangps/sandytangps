@@ -7,7 +7,7 @@
 - 🗒 “There is no such thing as a self-made man. You will reach your goals only with the help of others.” – George Shinn
 - 📫 Reach me through here? :)
 
-<code><strong>Language attempted</strong><br>
+<strong>Language attempted</strong><br>
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
 <!---
